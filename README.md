@@ -1,6 +1,8 @@
 # Ecommerce
   ![Github licence](http://img.shields.io/badge/license-Open-blue.svg)
   
+  https://github.com/Jkirbs86/E-commerce (Walkthrough)
+  
   ## Description 
   MYSQL database
   ## Table of Contents
